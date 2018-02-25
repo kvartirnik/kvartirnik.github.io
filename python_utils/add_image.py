@@ -6,7 +6,7 @@ pprint = pp.pprint
 post_content = '''---
 layout: default
 ---
-![Picture example](/images/kvartirnik_photos/{}.jpg)
+![Picture example](images/kvartirnik_photos/{}.jpg)
 
 '''
 
