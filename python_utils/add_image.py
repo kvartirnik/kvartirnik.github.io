@@ -6,7 +6,8 @@ pprint = pp.pprint
 post_content = '''---
 layout: default
 ---
-![Picture example](images/kvartirnik_photos/{}.jpg)
+![Picture example](https://github.com/kvartirnik/website/blob/gh-pages/images/kvartirnik_photos/{}.jpg)
+
 
 '''
 
